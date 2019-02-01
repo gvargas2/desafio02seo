@@ -13,3 +13,5 @@ http://186.64.118.50/~feg11gabriela/
 http://186.64.118.50/~feg11gabriela/sitemap_index.xml
 
 4. Listado con los aspectos de seguridad que optimizaste dentro de la página web
+ - Comprobamos actualización en Wordpress y actualizamos todo.
+ - Instalamos Wordfence: Primero un escaneo, luego configuramos el segundo nivel de seguridad del firewall 
